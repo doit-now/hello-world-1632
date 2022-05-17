@@ -6,5 +6,7 @@
 * .gitignore file to tell Git which file is uploaded or not
 * ...
 
+### Screen shots
+![Source code](https://github.com/doit-now/hello-world-1632/blob/main/images/Source.png)
 
 #### © giáo.làng 2022
